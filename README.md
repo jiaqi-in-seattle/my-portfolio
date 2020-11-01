@@ -1,8 +1,10 @@
 # my-portfolio
 
-## Project Name: Jiaqi's Portfolio
+## Project Name
+Jiaqi's Portfolio
 
-## Author Name: Jiaqi Li
+## Author Name
+Jiaqi Li
 
 ## Description
 It is my first independent project using Git, HTML, and CSS and it is a simple webpage showing some of my personal information like background, hobbies, etc.
