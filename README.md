@@ -11,6 +11,9 @@ It is my first independent project using Git, HTML, and CSS and it is a simple w
 
 ## Program Setup Instructions
 
+* Clone this repository.
+* Open a simple HTTP server in the top level of the cloned directory.
+* Then open your web broswer of choice.
 
 ## Link
 https://github.com/jiaqi-in-seattle/my-portfolio/blob/master/index.html
