@@ -11,12 +11,12 @@ It is my first independent project using Git, HTML, and CSS and it is a simple w
 
 ## Program Setup Instructions
 
-* Clone this repository.
-* Open a simple HTTP server in the top level of the cloned directory.
-* Then open your web broswer of choice.
+* Copy the link: https://jiaqi-in-seattle.github.io/my-portfolio/
+* Open a web browser and paste the link on the top.
+* Then you were able to see the website.
 
 ## Link
-https://github.com/jiaqi-in-seattle/my-portfolio/blob/master/index.html
+https://jiaqi-in-seattle.github.io/my-portfolio/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
